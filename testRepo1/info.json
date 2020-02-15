@@ -1,10 +1,10 @@
-{
-"info" : {
+
+{"info" : {
     "name":"northdpole/testRepo2",
     "repository":"https://github.com/northdpole/standaloneTestRepo1",
     "tags":["defenders","foo","bar"],
     "sdlc":["AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","Cooking"],
     "example_usage":"get hammer -> smash drives -> ignite thermite",
-    "output_type":["smashed drives"]
+    "output_type":["smashed drives","slight inconvenience in data retrieval"]
     }
 }
