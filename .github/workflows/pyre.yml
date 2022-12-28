@@ -10,7 +10,7 @@
 # PEP 484. Pyre can analyze codebases with millions of lines
 # of code incrementally – providing instantaneous feedback
 # to developers as they write code.
-#
+# 
 # See https://pyre-check.org
 
 name: Pyre
